@@ -3,9 +3,9 @@
 	"version": "1.0.0",
 	"description": "CLI tool to start a react template",
 	"type": "module",
-	"main": "main.js",
+	"main": "react-starter.js",
 	"bin": {
-		"main": "main.js"
+		"react-starter": "react-starter.js"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
